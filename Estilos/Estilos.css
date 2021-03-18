@@ -1,0 +1,20 @@
+/*clases y id's
+ALT+ SHIFT + A */
+
+body{
+    text-align: center;
+    background-color: gray;
+    
+}
+
+.titulos{
+    color:honeydew;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: honeydew;
+    font-size: 20px;
+}
